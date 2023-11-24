@@ -49,5 +49,7 @@
 
 
 ## 🌱 Git Status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongminll04&show_icons=true&theme=tokyonight)
-![Commit](./profile-3d-contrib/profile-green-animate.svg)
+
+<img src="https://github-readme-stats.vercel.app/api?username=seongminll04&show_icons=true&theme=tokyonight"/>
+
+<img src="./profile-3d-contrib/profile-green-animate.svg"/>
